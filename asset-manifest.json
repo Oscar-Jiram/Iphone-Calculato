@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Oscar-Jiram/test_1.git/static/css/main.f855e6bc.css",
+    "main.js": "/Oscar-Jiram/test_1.git/static/js/main.2bc44686.js",
+    "static/js/453.56f46472.chunk.js": "/Oscar-Jiram/test_1.git/static/js/453.56f46472.chunk.js",
+    "static/media/logo.svg": "/Oscar-Jiram/test_1.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Oscar-Jiram/test_1.git/index.html",
+    "main.f855e6bc.css.map": "/Oscar-Jiram/test_1.git/static/css/main.f855e6bc.css.map",
+    "main.2bc44686.js.map": "/Oscar-Jiram/test_1.git/static/js/main.2bc44686.js.map",
+    "453.56f46472.chunk.js.map": "/Oscar-Jiram/test_1.git/static/js/453.56f46472.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.2bc44686.js"
+  ]
+}
